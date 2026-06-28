@@ -2,73 +2,59 @@
 
 # Marketing Research Portfolio
 
-### Market Research · Competitor Analysis · Consumer Behaviour · Business Reporting · Brand Positioning
+### Market Research · Competitor Analysis · Consumer Behaviour · Brand Positioning · Business Reporting
 
-This repository presents selected marketing research, competitor analysis, consumer insight, and business reporting samples.  
-It is designed to demonstrate my ability to collect information, analyse markets, identify business opportunities, and present findings in a clear professional format.
+This repository presents my professional portfolio in marketing research, competitor analysis, consumer behaviour, brand positioning, and business insight reporting.
+
+It is designed to demonstrate my ability to collect information, analyse market conditions, compare competitors, identify customer behaviour patterns, and present findings in a clear business-focused format.
 
 </div>
 
 ---
 
-## About This Portfolio
+## About This Repository
 
-I am a Marketing graduate with experience in research, business documentation, SEO content, virtual assistance, and digital project coordination.
+This portfolio focuses on marketing research and business analysis work. It includes structured research samples, report formats, competitor analysis frameworks, consumer insight notes, and business recommendations.
 
-This portfolio focuses on my research and analytical work, including:
-
-- Market research
-- Competitor analysis
-- Consumer behaviour analysis
-- Brand positioning research
-- Business and marketing reports
-- Research-based recommendations
-- Data collection and structured documentation
+The purpose of this repository is to show practical research and reporting skills relevant to marketing, business development, digital strategy, and client-facing research support.
 
 ---
 
-## Portfolio Sections
+## Portfolio Focus Areas
 
-| Section | Description |
+| Area | Description |
 |---|---|
-| Competitor Analysis | Research comparing competing brands, their strengths, weaknesses, positioning, and digital strategy |
-| Market Research Reports | Structured reports on industries, customers, trends, and opportunities |
-| Consumer Behaviour Notes | Insights into customer needs, buying behaviour, and decision-making |
+| Market Research | Industry overview, customer needs, market trends, and business opportunities |
+| Competitor Analysis | Comparison of competing brands, positioning, strengths, weaknesses, and digital strategy |
+| Consumer Behaviour | Customer decision-making, online buying behaviour, trust factors, and purchase motivation |
 | Brand Positioning | Analysis of how brands present themselves in the market |
-| Business Insights | Short research summaries with practical recommendations |
+| Business Insights | Short research-based summaries with practical recommendations |
+| Reporting | Clear professional documentation for business and marketing decisions |
 
 ---
 
 ## Skills Demonstrated
 
-| Skill Area | Details |
+| Skill Area | Professional Application |
 |---|---|
-| Research | Market research, competitor research, secondary research, data collection |
-| Analysis | SWOT analysis, trend identification, customer insight, business comparison |
-| Marketing | Consumer behaviour, brand positioning, marketing communication, campaign research |
-| Reporting | Business reports, executive summaries, professional documentation |
-| Tools | Google Docs, Google Sheets, Microsoft Word, Microsoft Excel, SEMrush, Ahrefs, Google Analytics |
+| Research | Market research, secondary research, competitor research, information collection |
+| Analysis | SWOT analysis, trend identification, brand comparison, customer behaviour analysis |
+| Marketing | Consumer behaviour, brand positioning, marketing communication, digital strategy |
+| Reporting | Business reports, executive summaries, research documentation |
+| Communication | Clear writing, structured presentation, client-focused recommendations |
+| Organisation | Research planning, document structure, information categorisation |
 
 ---
 
-## Sample Repository Structure
+## Research Process
+
+For each research sample, I follow a structured process:
 
 ```text
-Marketing-research-portfolio/
-│
-├── README.md
-│
-├── competitor-analysis/
-│   └── skincare-clinic-competitor-analysis.md
-│
-├── market-research-reports/
-│   └── ecommerce-market-research-report.md
-│
-├── consumer-behaviour-notes/
-│   └── online-shopping-consumer-behaviour.md
-│
-├── brand-positioning/
-│   └── beauty-brand-positioning-analysis.md
-│
-└── business-insights/
-    └── digital-marketing-business-insights.md
+1. Define the research objective
+2. Identify the target market or business issue
+3. Collect relevant secondary information
+4. Analyse competitors, customers, or market patterns
+5. Identify key findings
+6. Convert findings into practical recommendations
+7. Present the work in a clear professional format
